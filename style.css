@@ -1,0 +1,15 @@
+.result {
+  display: flex;
+  flex-direction: column; /* Stack items top to bottom */
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.one-side {
+  background: white;
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: orange;
+  color: black;
+}
